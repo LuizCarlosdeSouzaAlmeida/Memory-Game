@@ -1,3 +1,4 @@
+'use strict'
 /*
  *           Global variables declaration:
  */
@@ -19,7 +20,7 @@ let timer = setInterval(function () {
 function addMove () {
   counter += 1;
   $(".moves").text(counter);
-  if(counter== 17 || counter == 14 || counter == 20)
+  if(counter == 15 || counter == 20)
     removeStar();
 }
 
