@@ -11,4 +11,4 @@ possible.
   You can restart the game any time by clicking on the resset buttom.
 
 
-  Build on jQuery;
+  Built on jQuery;
