@@ -3,7 +3,7 @@
   Made as the final project of [Udacity's Web Front-end Fundamentals Nanodegree Program](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001).
 
 ## Instructions
-  + To run the game, open the "index.html" file on your preference web browser
+  + To run the game, open the "index.html" file on your preference web browser.
   
   + The game starts automatically when the page is load, your goal is to find the matching pair
 for the 16 cards by clicking on them with less possible moves and time to win more stars as
